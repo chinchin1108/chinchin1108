@@ -1,8 +1,7 @@
 # 
 # diseaseSim.py - simulates the spread of disease through a population in a specified neighbourhood. Returns with the results of number of uninfected, infected, dead and immune people and plots a graph for its progress after each timesteps.
 #
-# Student Name   : Wei Chin
-# Student Number : 18815690
+# 
 #
 # Version history:
 #
