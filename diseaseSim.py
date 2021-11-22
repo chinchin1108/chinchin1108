@@ -1,14 +1,6 @@
-# 
+
 # diseaseSim.py - simulates the spread of disease through a population in a specified neighbourhood. Returns with the results of number of uninfected, infected, dead and immune people and plots a graph for its progress after each timesteps.
-#
-# 
-#
-# Version history:
-#
-# 
-# 24/5/19 - extended version of the code
-#
-#
+
 
 import numpy as np
 import matplotlib.pyplot as plt
