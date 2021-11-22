@@ -5,7 +5,7 @@
 #
 # Version history:
 #
-# 25/4/19 - beta version released for FOP assignment
+# 
 # 24/5/19 - extended version of the code
 #
 #
