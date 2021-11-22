@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chinchin1108
-- 👀 I’m interested in coding ^_^
-- 🌱 I’m currently learning python
+- Here are my python scripts. Will upload more :D
 
 
 <!---
