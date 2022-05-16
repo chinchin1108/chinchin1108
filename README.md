@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @chinchin1108
-- Here are my python scripts. Will upload more :D
 
 
 <!---
